@@ -1,4 +1,4 @@
-# Drone Manufacturing & Performance Analytics | HC Robotics
+# Drone Performance Analytics | HC Robotics
 
 ## 📌 Project Overview
 This project establishes a comprehensive data pipeline for **HC Robotics** to monitor the lifecycle of autonomous drones. It integrates synthetic data generation, a PostgreSQL relational database, and a Power BI business intelligence layer to track manufacturing defects, flight reliability, and supply chain vulnerabilities.
